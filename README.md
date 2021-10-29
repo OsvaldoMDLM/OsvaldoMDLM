@@ -18,8 +18,8 @@
 </ul>
 <br><br>
 
-<h3 align="center">Where to find me</h3>
-<p align="center">
+<h3 align="left">Where to find me</h3>
+<p align="left">
 <a href="https://www.linkedin.com/in/osvaldo-medina-30a59518b/" title="LinkedIn Profile"><img  height="30" width="40" alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></a>
 <a href="mailto:osvaldo.benjamin31@gmail.com" title="Mail"><img width="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg"></a>
 <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fosvaldo-medina-30a59518b%2F"><img  height="30" width="40" alt="Twitter" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"></a>
