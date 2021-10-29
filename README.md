@@ -16,7 +16,7 @@
 <li>📚 I’m currently learning how to build mobile apps with Flutter.</li>
 <li>🎮 I like play video games and watch movies or series.</li>
 </ul>
-<br><br>
+
 
 <h3 align="left">Where to find me</h3>
 <p align="left">
