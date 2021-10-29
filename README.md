@@ -10,9 +10,9 @@
 
 <h3>Something about me</h3>
 <ul>
-<li>🧐  I'm currently studying <strong>telematics engineering</strong> at the University of Colima.</li>
+<li>🧐 I'm currently studying <strong>telematics engineering</strong> at the University of Colima.</li>
 <li>🎵 I love listening to music.</li>
-<li>💻📱 I like web and mobile development and writing code and learn anythings about it>.</li>
+<li>💻📱I like web and mobile development and writing code and learn anythings about it.</li>
 <li>📚 I’m currently learning how to build mobile apps with Flutter.</li>
 <li>🎮 I like play video games and watch movies or series.</li>
 </ul>
