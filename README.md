@@ -37,7 +37,7 @@
       <img  width=370 src="https://github-readme-streak-stats.herokuapp.com/?user=osvaldomdlm&theme=react&border=61dafb&hide_border=true" alt="osvaldomdlm" />
     </a>&nbsp
     <a href="https://github.com/osvaldomdlm/github-readme-stats" title="Go to Source">
-      <img width=370 src="https://github-readme-stats.vercel.app/api?username=osvaldomdlm&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img width=370 src="https://github-readme-stats.vercel.app/api?username=OsvaldoMDLM&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br>
