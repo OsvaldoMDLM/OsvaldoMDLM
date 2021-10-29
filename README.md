@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-
+<img align="right" width="200" src="https://user-images.githubusercontent.com/62674782/139376849-99363663-f712-4f9a-9da9-b43a3727e934.png">
 
 <h3>Something about me</h3>
 <ul>
@@ -16,8 +16,7 @@
 <li>📚 I’m currently learning how to build mobile apps with Flutter.</li>
 <li>🎮 I like play video games and watch movies or series.</li>
 </ul>
-
-<br>
+<br><br>
 
 <h3 align="center">Where to find me</h3>
 <p align="center">
@@ -35,16 +34,16 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=osvaldomdlm&theme=react&border=61dafb&hide_border=true" alt="osvaldomdlm" />
-    </a>
+      <img  width=370 src="https://github-readme-streak-stats.herokuapp.com/?user=osvaldomdlm&theme=react&border=61dafb&hide_border=true" alt="osvaldomdlm" />
+    </a>&nbsp
     <a href="https://github.com/osvaldomdlm/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=osvaldomdlm&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img width=370 src="https://github-readme-stats.vercel.app/api?username=osvaldomdlm&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br><br>
+  <br>
   <div align=center>
     <a href="https://github.com/osvaldomdlm/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=osvaldomdlm&show_icons=true&locale=en&layout=compact&theme=react&border_color=61dafb&hide_border=true" />
+      <img width=320 src="https://github-readme-stats.vercel.app/api/top-langs?username=osvaldomdlm&show_icons=true&locale=en&layout=compact&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br>
