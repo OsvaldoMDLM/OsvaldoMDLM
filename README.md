@@ -6,8 +6,6 @@
   </a>
 </h1>
 
-<img align="right" width="200" src="https://user-images.githubusercontent.com/62674782/139376849-99363663-f712-4f9a-9da9-b43a3727e934.png">
-
 <h3>Something about me</h3>
 <ul>
 <li>🧐 I'm telematic engineer.</li>
@@ -48,14 +46,10 @@
       <img  width=370 src="https://github-readme-streak-stats.herokuapp.com/?user=osvaldomdlm&theme=react&border=61dafb&hide_border=true" alt="osvaldomdlm" />
     </a>&nbsp
     <a href="https://github.com/osvaldomdlm/github-readme-stats" title="Go to Source">
-      <img width=370 src="https://github-readme-stats.vercel.app/api?username=OsvaldoMDLM&show_icons=true&theme=react&border_color=61dafb&hide_border=true&count_private=true&include_all_commits=true" />
+      <img width=320 src="https://github-readme-stats.vercel.app/api/top-langs?username=osvaldomdlm&show_icons=true&locale=en&layout=compact&theme=react&border_color=61dafb&hide_border=false" />
     </a>
   </div>
   <br>
-  <div align=center>
-    <a href="https://github.com/osvaldomdlm/github-readme-stats">
-      <img width=320 src="https://github-readme-stats.vercel.app/api/top-langs?username=osvaldomdlm&show_icons=true&locale=en&layout=compact&theme=react&border_color=61dafb&hide_border=false" />
-    </a>
   </div>
   <br>
 </p>
