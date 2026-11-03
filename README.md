@@ -1,55 +1,10 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=osvaldomdlm&label=Profile%20views&color=0e75b6&style=flat" alt="osvaldomdlm" /> </p>
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%233BBAF7&size=30&width=420&lines=Hi+%F0%9F%91%8B+This+is+Osvaldo!;Nice+to+meet+you+++">
-  </a>
-</h1>
-
-<h3>Something about me</h3>
-<ul>
-<li>🧐 I'm telematic engineer.</li>
-<li>💻📱I like web and mobile development.</li>
-<li>I like writing code and learn new things.</li>
-</ul>
-
-
-<h3 align="left">Where to find me</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/osvaldo-medina-30a59518b/" title="LinkedIn Profile"><img  height="30" width="40" alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></a>
-<a href="mailto:osvaldo.benjamin31@gmail.com" title="Mail"><img width="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg"></a>
-<a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fosvaldo-medina-30a59518b%2F"><img  height="30" width="40" alt="Twitter" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"></a>
- <a href="https://www.instagram.com/delamoraosvaldo/" title="Instagram Profile"><img  height="30" width="40" alt="Instagram"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="GraphQl" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" alt="Rails" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" alt="Ruby" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
-</div>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img  width=370 src="https://github-readme-streak-stats.herokuapp.com/?user=osvaldomdlm&theme=react&border=61dafb&hide_border=true" alt="osvaldomdlm" />
-    </a>&nbsp
-    <a href="https://github.com/osvaldomdlm/github-readme-stats" title="Go to Source">
-      <img width=320 src="https://github-readme-stats.vercel.app/api/top-langs?username=osvaldomdlm&show_icons=true&locale=en&layout=compact&theme=react&border_color=61dafb&hide_border=false" />
-    </a>
-  </div>
-  <br>
-  </div>
-  <br>
-</p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=osvaldomdlm&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p> <h1 align="center"> <a href="https://github.com/osvaldomdlm"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3BBAF7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Osvaldo!;Telematics+Engineer;Web+%26+Mobile+Developer;Nice+to+meet+you!" alt="Typing SVG" /> </a> </h1> <p align="center"> <a href="https://www.linkedin.com/in/osvaldo-medina-30a59518b/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:osvaldo.benjamin31@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://www.instagram.com/delamoraosvaldo/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a> </p>
+🧐 About me
+🎓 I'm a Telematics Engineer.
+💻📱 I build web and mobile applications, mainly with Flutter, React and Ruby on Rails.
+🌱 I enjoy writing clean code and I'm always learning new things.
+🔭 Currently working on: your current project here
+💬 Ask me about: Flutter, React, Firebase…
+🛠️ Languages & Tools
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="40" height="40" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" title="Ruby on Rails" alt="Rails" width="40" height="40" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="40" height="40" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40" /> </p>
+<h2 align="center">⚡ GitHub Stats ⚡</h2> <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=osvaldomdlm&show_icons=true&theme=react&hide_border=true&count_private=true" alt="GitHub stats" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=osvaldomdlm&layout=compact&theme=react&hide_border=true" alt="Top languages" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=osvaldomdlm&theme=react&hide_border=true" alt="GitHub streak" /> </p> <p align="center"> <i>Thanks for stopping by! ✨</i> </p>
